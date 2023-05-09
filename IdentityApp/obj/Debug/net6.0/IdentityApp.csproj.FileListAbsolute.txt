@@ -1,0 +1,15 @@
+C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\obj\Debug\net6.0\IdentityApp.csproj.AssemblyReference.cache
+C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\obj\Debug\net6.0\IdentityApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\obj\Debug\net6.0\IdentityApp.AssemblyInfoInputs.cache
+C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\obj\Debug\net6.0\IdentityApp.AssemblyInfo.cs
+C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\obj\Debug\net6.0\IdentityApp.csproj.CoreCompileInputs.cache
+C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\bin\Debug\net6.0\IdentityApp.exe
+C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\bin\Debug\net6.0\IdentityApp.deps.json
+C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\bin\Debug\net6.0\IdentityApp.runtimeconfig.json
+C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\bin\Debug\net6.0\IdentityApp.dll
+C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\bin\Debug\net6.0\IdentityApp.pdb
+C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\obj\Debug\net6.0\IdentityApp.dll
+C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\obj\Debug\net6.0\refint\IdentityApp.dll
+C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\obj\Debug\net6.0\IdentityApp.pdb
+C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\obj\Debug\net6.0\IdentityApp.genruntimeconfig.cache
+C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\obj\Debug\net6.0\ref\IdentityApp.dll
