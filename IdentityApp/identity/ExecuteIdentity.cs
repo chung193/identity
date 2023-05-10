@@ -22,7 +22,12 @@ namespace IdentityApp.identity
         public static MethodInfo[] getMethodList(string selectedObjcClass)
         {
             MethodInfo[] methodInfos = Type.GetType(selectedObjcClass)
-                            .GetMethods(BindingFlags.Public|BindingFlags.NonPublic|BindingFlags.Static | BindingFlags.Instance| BindingFlags.FlattenHierarchy);
+                            .GetMethods(
+                                        BindingFlags.DeclaredOnly |
+                                        BindingFlags.Instance |
+                                        BindingFlags.Public |
+                                        BindingFlags.NonPublic
+                                    );
             return methodInfos;
         }
     }

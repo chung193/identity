@@ -13,3 +13,7 @@ C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\obj\Debug\net6.0\refint\
 C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\obj\Debug\net6.0\IdentityApp.pdb
 C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\obj\Debug\net6.0\IdentityApp.genruntimeconfig.cache
 C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\obj\Debug\net6.0\ref\IdentityApp.dll
+C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\bin\Debug\net6.0\Npgsql.dll
+C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\obj\Debug\net6.0\IdentityApp.csproj.CopyComplete
+C:\Users\chung6960\source\repos\IdentityApp\IdentityApp\bin\Debug\net6.0\Newtonsoft.Json.dll

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace IdentityApp.common
 {
-    internal class Helper
+    public static class Helper
     {
+    
     }
 }
